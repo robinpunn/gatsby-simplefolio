@@ -1,9 +1,9 @@
 # Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
-## A project created by a ZTM student
+## A project created by a ZeroToMastery student
 
 This projected is shared with students taking the Zero to Mastery Complete Web Developer course.
-This portfolio template was created by ZTM student **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+This portfolio template was created by <a href="https://zerotomastery.io/">ZTM</a> student **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
 
 ### A clean, beautiful and responsive portfolio template for Developers
 
