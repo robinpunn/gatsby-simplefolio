@@ -3,7 +3,7 @@
 ## A project created by a ZeroToMastery student
 
 This projected is shared with students taking the Zero to Mastery Complete Web Developer course.
-This portfolio template was created by <a href="https://zerotomastery.io/">ZTM</a> student **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+This portfolio template was created by <a href="https://zerotomastery.io/">ZTM</a> student **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
 
 ### A clean, beautiful and responsive portfolio template for Developers
 
@@ -23,15 +23,7 @@ This portfolio template was created by <a href="https://zerotomastery.io/">ZTM</
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)**
-
 ---
-
-## Others versions 👥
-
-[Simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
 
@@ -43,7 +35,7 @@ To view a live example, **[click here](https://cobidev.com/)**
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
 
 ## License 📄
 
